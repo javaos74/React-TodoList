@@ -31,7 +31,7 @@ jobs:
         # Username for Docker registry
         username: charlescr
         # Password for Docker registry
-        password: ${{ secret.ACR_PWD }}
+        password: ${{ secrets.ACR_PWD }}
         # Registry URL
         registry: charlescr.azurecr.io
         # Don't skip pull requests
