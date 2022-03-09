@@ -93,7 +93,6 @@ RUN apk add --no-cache --virtual .build-deps-yarn curl gnupg tar \
   && yarn --version
 
 RUN npm install -g serve
-RUN npm run build
 #COPY ./docker-entrypoint.sh /usr/local/bin/
 COPY ./build /apps
 #COPY ./node_modules /apps/node_modules

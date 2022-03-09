@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bafa90cf.css",
+    "main.js": "/static/js/main.e1866980.js",
+    "index.html": "/index.html",
+    "main.bafa90cf.css.map": "/static/css/main.bafa90cf.css.map",
+    "main.e1866980.js.map": "/static/js/main.e1866980.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafa90cf.css",
+    "static/js/main.e1866980.js"
+  ]
+}
